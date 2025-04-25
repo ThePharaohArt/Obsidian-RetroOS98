@@ -13,6 +13,8 @@ Experience the Windows 95/98 Feel in Obisidian, a faithful recreation of the Win
 I would appreciate any donation if you enjoy this theme
 <a href="https://www.buymeacoffee.com/TheEmperorArt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=TheEmperorArt&button_colour=690ed8&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
+- [Matoseb](https://github.com/Matoseb/) Providing comprehensive Windows 95/98 scrollbar
+- [SMUsamaShah](https://github.com/SMUsamaShah) Spritual Successor to SMUsamaShah's Windows 98 Edition Theme used slidebar and checkbox style
 - [LennZone](https://github.com/LennZone) Adapted LennZone's Enhanced File Explorer Tree
 
 > **Note**
