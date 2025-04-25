@@ -1,4 +1,4 @@
-# Obsidian: RetroOS 98
+# RetroOS 98 for Obsidian
 v0.0.1 - Initial Release - it overhauls Obsidian to give it a Win98 makeover.
 
 Experience the Windows 95/98 Feel in Obisidian, a faithful recreation of the Win98 OS style. Total support of light/dark mode, support tablet and phone views. Let me know if you find any bugs or have any suggestions on further improvements.
