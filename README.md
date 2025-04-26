@@ -8,7 +8,8 @@ Experience the Windows 95/98 Feel in Obisidian, a faithful recreation of the Win
 ### Mobile View
 <img src= "https://github.com/user-attachments/assets/3248f7ff-801f-4530-b6e0-eb76026fbfd4" height="400">
 
-Check out my Cyber Glow theme for Obsidian: https://github.com/ThePharaohArt/Obsidian-CyberGlow
+### Check out my other theme for Obsidian
+Cyber Glow: https://github.com/ThePharaohArt/Obsidian-CyberGlow
 
 I would appreciate any donation if you enjoy this theme
 <a href="https://www.buymeacoffee.com/TheEmperorArt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=TheEmperorArt&button_colour=690ed8&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
