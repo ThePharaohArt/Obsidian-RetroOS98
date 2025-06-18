@@ -1,5 +1,12 @@
 # RetroOS 98 for Obsidian
-v0.0.1 - Initial Release - it overhauls Obsidian to give it a Win98 makeover.
+v0.0.4 Changelog
+- Fixed: Callouts not displaying in dark mode
+- Fixed: Tab text color on in active tab changing to black in dark mode
+- Fixed: textbox graphic appearing in tables when selected
+- Fixed: In Obsidian Frame the Obsidian menu icon is properly visible
+- Fixed: Returned the Caret to white in dark mode and black in light mode for easier visibility
+- Fixed: Border outline for tab page on Mobile
+- Fixed: Header Page Title color, poor base Obsidian code
 
 Experience the Windows 95/98 Feel in Obisidian, a faithful recreation of the Win98 OS style. Total support of light/dark mode, support tablet and phone views. Let me know if you find any bugs or have any suggestions on further improvements. 
 
