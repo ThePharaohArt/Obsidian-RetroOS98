@@ -1,5 +1,5 @@
 # RetroOS 98 for Obsidian
-Changelog v0.0.7
+Changelog v0.0.8
 - Added: Style Setting options for color schemes based on actual Windows95/98 color schemes and Windows Plus #4 
 - Updated: Coloring for the codeblocks to be more visible #2 
 - Added: Style Setting option to change the width of the scrollbar #1 
