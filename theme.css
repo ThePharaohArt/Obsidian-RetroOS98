@@ -2534,7 +2534,7 @@ display: none;
 
 /*Callouts*/
 .callout{
-    background-color: rgba(var(--callout-color), 0.4);
+    background-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
     box-shadow: inset -1px -1px black, inset 0px 0px var(--background-secondary), inset -2px -2px var(--bg-button-shadow), inset 1px 1px var(--bg-button-light);
     border-radius: 0px;
         padding: 0px;
